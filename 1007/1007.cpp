@@ -1,0 +1,11 @@
+// Agradeço a DEUS pelo dom do conhecimento
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a,b,c,d;
+    cin >> a >> b >> c >> d;
+    cout << "DIFERENCA = " << a*b-c*d << "\n";
+    return 0;
+}
